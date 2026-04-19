@@ -116,6 +116,13 @@ pip install transformers datasets librosa soundfile jiwer accelerate
 
 
 ```
+
+## 🌍 Why This Project Matters
+
+Speech recognition for Hindi and code-mixed languages is still challenging due to limited datasets and informal speech patterns. This project explores real-world limitations of ASR systems and highlights key challenges in low-resource language settings.
+
+---
+
 ## 📌 Conclusion
 
 This project demonstrates a complete ASR pipeline, including training, evaluation, and error analysis. It highlights the importance of data quality, preprocessing, and evaluation strategies in building robust speech recognition systems.
